@@ -3,9 +3,6 @@ this is a global keyboard hook for C# thanks and enjoy
 
 Usage:
 
-using System;
-using KeyboardHook;
-
      private void StartHook()
      {
          _globalKeyboardHook = new GKeyboardHook();
